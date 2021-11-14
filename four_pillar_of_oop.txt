@@ -1,0 +1,15 @@
+four pillar of oop are------
+
+1.encapsulation
+ ->
+ its a method to bundle a data within a class that no outsider can access and change that data.
+ hence provide a protection or barrier for other classes and method to use my class dsa_ka_bta
+->
+ but if i want some of my class`s data  accessable to other classes ..i use getter and setter method
+->
+making property of class private means encapsulating them..
+
+
+2.abstraction
+3.inheritance
+4.polymorphism

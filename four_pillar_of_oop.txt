@@ -11,5 +11,14 @@ making property of class private means encapsulating them..
 
 
 2.abstraction
+->
+hiding complex things or code behind the procedure to make those codes or things look simple..
+->
+example-clicking photos just by clicking a button but the actual logic behind that is abstracted means hidden and the procedure looks simple af..
+
+->
+we provide abstracted class like contract to user or employe and the class employe was made by engineers with that contract implimentation
+
+
 3.inheritance
 4.polymorphism

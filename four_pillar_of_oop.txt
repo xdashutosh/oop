@@ -21,4 +21,19 @@ we provide abstracted class like contract to user or employe and the class emplo
 
 
 3.inheritance
+->
+supose we have to make a class of human and then a class of female and male
+so what we do we will just make a class of human and inherit its properties in male as well as female
+class afterall both are human but addition with some more proprties..
+like men are muscular,taller
+female are flexible,have sharp voice etc.
+
+so here----
+human ->parent or base class
+female,male->inherited or child class
+
+
+
+
+
 4.polymorphism
